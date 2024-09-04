@@ -1,15 +1,18 @@
 # CIDOO v75 Pro VIA mapping for MacOS
 
+![alt text](https://cidootech.com/cdn/shop/products/IMG_4835.jpg?v%3D1681293492%26width%3D1946)
 
 **Original**
-![alt text](https://cidootech.com/cdn/shop/products/IMG_4835.jpg?v%3D1681293492%26width%3D1946)
+
 ![Screenshot 2024-09-03 at 20 49 46](https://github.com/user-attachments/assets/79758fb3-64ee-458d-bd82-4e1006ac404e)
 
 **New mapping**
+
 ![Screenshot 2024-09-03 at 20 54 18](https://github.com/user-attachments/assets/373881c1-020d-4346-b0e8-c1b7d7964445)
 
 
 **Under the hood**
+
 F1 -> F13 (Mac setting -> Keyboard shortcut -> Display -> Descrese display britness -> press F1 - it maps to F13)
 F2 -> F14 (Mac setting -> Keyboard shortcut -> Display -> Increase display britness -> press F2 - it maps to F14)
 ![Screenshot 2024-09-03 at 20 53 01](https://github.com/user-attachments/assets/24a2678a-6465-449c-916c-8b1f4985e037)
